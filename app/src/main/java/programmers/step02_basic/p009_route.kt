@@ -6,8 +6,13 @@ package programmers.step02_basic
 class p009_route {
     fun main(args: Array<String>) {
         val s1 = readLine()!!
-        for(c in s1){
+        for (c in s1) {
             println(c)
         }
     }
+
+//    fun main(args: Array<String>) {
+//        val s1 = readLine()!!
+//        s1.map(::println)
+//    }
 }
