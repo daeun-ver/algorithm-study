@@ -13,4 +13,12 @@ class p029_digit_ti_int {
         answer = sum % 9
         return answer
     }
+
+//    fun solution(number: String): Int {
+//        var sum = 0
+//        for (char in number) {
+//            sum += char.digitToInt()
+//        }
+//        return sum % 9
+//    }
 }
