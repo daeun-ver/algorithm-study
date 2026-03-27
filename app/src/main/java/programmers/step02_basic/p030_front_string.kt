@@ -10,4 +10,8 @@ class p030_front_string {
         }
         return answer
     }
+//    fun solution(my_string: String, n: Int): String {
+//
+//        return my_string.take(n)
+//    }
 }
