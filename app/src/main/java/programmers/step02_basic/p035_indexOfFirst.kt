@@ -13,4 +13,9 @@ class p035_indexOfFirst {
         }
         return answer
     }
+
+//    fun solution(num_list: IntArray): Int {
+//
+//        return num_list.indexOfFirst{ it < 0 }
+//    }
 }
