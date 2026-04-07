@@ -18,4 +18,11 @@ class p047_odd_vs_even {
 
         return if (odd > even) odd else even
     }
+
+//    fun solution(num_list: IntArray): Int {
+//        val odd = num_list.filterIndexed { i, _ -> i % 2 == 1 }.sum()
+//        val even = num_list.filterIndexed { i, _ -> i % 2 == 0 }.sum()
+//
+//        return maxOf(odd, even)
+//    }
 }
