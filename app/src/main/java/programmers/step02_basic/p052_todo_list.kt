@@ -13,4 +13,8 @@ class p052_todo_list {
         }
         return answer
     }
+
+//    fun solution(todo_list: Array<String>, finished: BooleanArray): Array<String> {
+//        return todo_list.filterIndexed { i, _ -> !finished[i] }.toTypedArray()
+//    }
 }
