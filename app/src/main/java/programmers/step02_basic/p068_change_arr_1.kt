@@ -16,4 +16,13 @@ class p068_change_arr_1 {
         }
         return answer
     }
+
+//    fun solution(arr: IntArray): IntArray {
+//
+//        return arr.map { i ->
+//            if (i >= 50 && i % 2 == 0) i / 2
+//            else if (i < 50 && i % 2 == 1) i * 2
+//            else i
+//        }.toIntArray()
+//    }
 }
