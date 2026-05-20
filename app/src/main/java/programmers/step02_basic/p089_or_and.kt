@@ -11,4 +11,9 @@ class p089_or_and {
         answer = x5 && x6
         return answer
     }
+
+//    fun solution(x1: Boolean, x2: Boolean, x3: Boolean, x4: Boolean): Boolean {
+//
+//        return (x1 || x2) && (x3 || x4)
+//    }
 }
