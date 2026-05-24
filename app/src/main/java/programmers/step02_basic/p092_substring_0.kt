@@ -10,4 +10,9 @@ class p092_substring_0 {
         }
         return n_str.substring(index)
     }
+
+//    fun solution(n_str: String): String {
+//        return n_str
+//            .dropWhile { it == '0' }
+//    }
 }
