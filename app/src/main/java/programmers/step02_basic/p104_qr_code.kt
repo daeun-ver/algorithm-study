@@ -12,4 +12,9 @@ class p104_qr_code {
         }
         return answer
     }
+
+//    fun solution(q: Int, r: Int, code: String): String {
+//
+//        return code.filterIndexed { index, ch -> index % q == r }
+//    }
 }
