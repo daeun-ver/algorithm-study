@@ -12,4 +12,9 @@ class p03_sum_n {
         }
         return answer
     }
+
+//    fun solution(n: Int): Int {
+//
+//        return (1..n).filter { n % it == 0 }.sum()
+//    }
 }
