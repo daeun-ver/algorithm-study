@@ -13,4 +13,12 @@ class p18_forEachIndexed {
         }
         return answer
     }
+
+//    fun solution(absolutes: IntArray, signs: BooleanArray): Int {
+//        var answer: Int = 0
+//        absolutes.forEachIndexed{ i, j ->
+//            if(signs[i]) answer += j else answer -= j
+//        }
+//        return answer
+//    }
 }
