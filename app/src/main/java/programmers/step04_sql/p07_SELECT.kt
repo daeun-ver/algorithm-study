@@ -13,7 +13,7 @@ package programmers.step04_sql
 
 val query7 = """
     SELECT FACTORY_ID, FACTORY_NAME, ADDRESS
-FROM FOOD_FACTORY
-WHERE ADDRESS LIKE '강원도%'
-ORDER BY FACTORY_ID ASC;
+    FROM FOOD_FACTORY
+    WHERE ADDRESS LIKE '강원도%'
+    ORDER BY FACTORY_ID ASC;
     """.trimIndent()
