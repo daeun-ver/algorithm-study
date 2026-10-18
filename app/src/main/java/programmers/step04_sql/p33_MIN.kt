@@ -14,5 +14,5 @@ package programmers.step04_sql
 
 val query33 = """
     SELECT MIN(PRICE)
-    FROM PRODUCT
+    FROM ANIMAL_INS
     """.trimIndent()
