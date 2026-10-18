@@ -13,6 +13,6 @@ package programmers.step04_sql
  */
 
 val query31 = """
-    SELECT MAX(PRICE) AS MAX_PRICE
-    FROM PRODUCT
+    SELECT MAX(DATETIME)
+    FROM ANIMAL_INS
     """.trimIndent()
